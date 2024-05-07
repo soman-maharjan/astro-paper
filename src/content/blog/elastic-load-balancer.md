@@ -1,7 +1,7 @@
 ---
 title: Elastic Load Balancer
 author: Soman Maharjan
-pubDatetime: 2022-06-06T04:06:31Z
+pubDatetime: 2024-05-07T10:35:31Z
 slug: elastic-load-balancer
 featured: true
 draft: false
